@@ -1,2 +1,1 @@
-14. Owner and group
-d
+15.Shell permissions
