@@ -1,1 +1,1 @@
-delete that thang!
+directory gone
