@@ -1,1 +1,1 @@
-rise
+arise
