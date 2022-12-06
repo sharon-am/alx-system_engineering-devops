@@ -1,1 +1,1 @@
-praise
+rise
